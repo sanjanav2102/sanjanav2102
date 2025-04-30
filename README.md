@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🔍 I enjoy exploring **data-driven solutions** and building meaningful tech projects.
-- 💻 Currently diving deeper into **Full Stack Web Development**.
+- 💻 Currently diving deeper into **Full Stack Web and Mobile Application Development**.
 - 📊 Love working on **Data Science**, **Machine Learning**, and real-world data challenges.
 - 🌐 Comfortable with frontend and backend tools — constantly learning and improving.
 
@@ -15,7 +15,7 @@
 - **Data Tools**: Pandas, NumPy, Matplotlib
 - **Web Development**: HTML, CSS, JavaScript
 - **Databases**: MySQL
-- **Other Tools**: Git, GitHub, VS Code
+- **Other Tools**: Git, GitHub, VS Code, Figma
 - **Currently learning**:Flutter, .NET
 
 ## 📫 Let's Connect
