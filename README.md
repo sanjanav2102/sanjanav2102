@@ -20,8 +20,8 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [sanjanaviswanathan123@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/sanjanav2102
+- Email: sanjanaviswanathan123@gmail.com
 
 ---
 
