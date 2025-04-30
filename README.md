@@ -18,11 +18,6 @@
 - **Other Tools**: Git, GitHub, VS Code
 - **Currently learning**:Flutter, .NET
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn URL]
