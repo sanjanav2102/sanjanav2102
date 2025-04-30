@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sanjana 👋
 
-<!--
-**sanjanav2102/sanjanav2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech Computer Science undergraduate passionate about **Data Science**, **Programming**, and **Web Development**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 I enjoy exploring **data-driven solutions** and building meaningful tech projects.
+- 💻 Currently diving deeper into **Full Stack Web Development**.
+- 📊 Love working on **Data Science**, **Machine Learning**, and real-world data challenges.
+- 🌐 Comfortable with frontend and backend tools — constantly learning and improving.
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript, C, Java
+- **Data Tools**: Pandas, NumPy, Matplotlib
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: MySQL
+- **Other Tools**: Git, GitHub, VS Code
+- **Currently learning**:Flutter, .NET
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [sanjanaviswanathan123@gmail.com]
+
+---
+
+Thanks for visiting my profile! 😊  
