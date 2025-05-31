@@ -40,7 +40,7 @@ Basic knowledge in
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanav2102&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanav2102&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanav2102&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanjanav2102&theme=dark)
 
