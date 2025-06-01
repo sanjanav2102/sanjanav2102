@@ -43,6 +43,8 @@ Basic knowledge in:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanjanav2102&theme=dark)
 
+---
+
 
 
 
