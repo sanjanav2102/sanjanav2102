@@ -1,6 +1,7 @@
 # Hi there, I'm Sanjana 👋
 
 🎓 I'm a B.Tech Computer Science undergraduate passionate about **Data Science**, **Programming**, and **Web Development**.
+Vist my portfolio: ![Portfolio](https://sanjanav2102.github.io/My-Portfolio/)
 
 ## 🚀 About Me
 
