@@ -129,6 +129,7 @@
 
 ## 🏆 Achievements
 
+- 📊 Completed **Foundation in Data Science and Programming** @IIT Madras
 - 🎤 Toastmasters Level 1 — Mastery in Presentation  
 - 📊 Built large-scale ML & analytics systems  
 - 👩‍💻 Led development teams in Agile environments
