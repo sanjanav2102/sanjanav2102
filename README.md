@@ -1,56 +1,153 @@
-# Hi there, I'm Sanjana 👋
+<h1 align="center">Hi 👋, I'm Sanjana</h1>
+<h3 align="center">Aspiring Software Engineer | Data Science Enthusiast | Flutter Developer</h3>
 
-🎓 I'm a B.Tech Computer Science undergraduate passionate about **Data Science**, **Programming**, and **Web Development**.
- - Vist my portfolio: https://sanjanav2102.github.io/My-Portfolio/
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Flutter+App+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer&center=true&width=500&height=50">
+</p>
+
+---
 
 ## 🚀 About Me
+- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham (CGPA: 8.22)  
+- 🎓 Diploma in Data Science @ IIT Madras (CGPA: 7.36)  
+- 💡 Passionate about **building scalable apps & data-driven solutions**  
+- 📊 Experienced in **ML pipelines, analytics dashboards & full-stack systems**  
+- 👩‍💻 Currently **open to internship opportunities**
 
-- 🔍 I enjoy exploring **data-driven solutions** and building meaningful tech projects.
-- 💻 Currently diving deeper into **Full Stack Web and Mobile Application Development**.
-- 📊 Love working on **Data Science**, **Machine Learning**, and real-world data challenges.
-- 🌐 Comfortable with frontend and backend tools — constantly learning and improving.
+---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,sql,haskell" />
+</p>
 
+### 🌐 Full Stack Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+</p>
 
-### Currently Into Mobile Application Development 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📱 App Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
----
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanav2102&show_icons=true&theme=radical)
+### 📊 Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanav2102&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanjanav2102&theme=dark)
+- Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn  
+- NLP | TF-IDF | LightGBM  
 
 ---
 
+## 💼 Experience
 
-
-
-
-## 📫 Let's Connect
-
-- LinkedIn: www.linkedin.com/in/sanjanav2102
-- Email: sanjanaviswanathan123@gmail.com
+### 🏢 Data Analyst Intern — Temenos (Apr 2026 – Present)
+- 🔍 Analyzed **6,00,000+ test scripts** to detect duplication  
+- 📊 Built **interactive dashboards** for duplication trends & insights  
+- ⚡ Improved testing efficiency by reducing redundant execution  
+- 🧠 Classified scripts by application modules for better coverage  
 
 ---
 
+### 📱 Mobile App Developer Intern — Ainsurtech (Apr 2025 – Jul 2025)
+- Built Flutter apps like **Note App & Attendance System**  
+- Led a **5-member Agile team**  
+- Used **Firebase, REST APIs, Git/GitHub**
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Automated Content Moderation System
+- Built ML pipeline for **1.98L+ comments classification**
+- Used **TF-IDF + LightGBM**
+- Achieved **82.4% accuracy**
+- Solved **class imbalance & missing data challenges**
+
+---
+
+### 📊 Business Data Management Capstone
+- Performed **Pareto Analysis & Pricing Optimization**
+- Applied **K-Means & RFM Segmentation**
+- Delivered **actionable business insights**
+
+---
+
+### 🍱 Food Redistribution Platform (MERN)
+- Connected **food donors with NGOs**
+- Implemented **location-based matching algorithm**
+- Built **real-time logistics tracking dashboard**
+
+---
+
+### 🏥 ARAM - IPV Detection System
+- WHO-based **risk assessment system**
+- Built **analytics dashboard & automated reports**
+- Enabled **real-time referral system**
+
+---
+
+### 📱 AttendEase App
+- Flutter + Firebase **attendance management system**
+- Features:
+  - Role-based authentication  
+  - Leave management  
+  - Calendar visualization  
+  - Real-time updates  
+
+---
+
+### 🧃 SnackSense (Smart Vending Machine)
+- Python + DSA project  
+- Implemented:
+  - Inventory tracking  
+  - Predictive demand  
+  - **Dijkstra’s Algorithm**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 LeetCode & Coding
+
+- 🚀 Strong foundation in **DSA (Graphs, Algorithms, Optimization)**
+- 💻 Regular problem solving & competitive coding  
+
+---
+
+## 🏆 Achievements
+
+- 🎤 Toastmasters Level 1 — Mastery in Presentation  
+- 📊 Built large-scale ML & analytics systems  
+- 👩‍💻 Led development teams in Agile environments  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+## ✨ Fun Fact
+> I love combining **Data + Development + Real-world Impact** 🚀
+
+---
+
+<p align="center">
+  ⭐️ From <b>Sanjana</b> — Building tech that matters
+</p>
