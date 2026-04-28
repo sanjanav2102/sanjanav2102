@@ -13,6 +13,7 @@
 - 💡 Passionate about **building scalable apps & data-driven solutions**  
 - 📊 Experienced in **ML pipelines, analytics dashboards & full-stack systems**  
 - 👩‍💻 Currently **open to internship opportunities**
+- 🌐 My Portfolio: https://sanjanav2102.github.io/My-Portfolio/
 
 ---
 
