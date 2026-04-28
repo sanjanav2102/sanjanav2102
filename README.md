@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham  
+- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham
 - 🎓 Diploma in Data Science @ IIT Madras   
 - 💡 Passionate about **building scalable apps & data-driven solutions**  
 - 📊 Experienced in **ML pipelines, analytics dashboards & full-stack systems**  
