@@ -114,6 +114,8 @@
 - HTML, CSS, JS
 - User Interface design
 - First Webdev Project
+
+---
   
 ## 📈 GitHub Stats
 
