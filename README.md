@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham (CGPA: 8.22)  
-- 🎓 Diploma in Data Science @ IIT Madras (CGPA: 7.36)  
+- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham  
+- 🎓 Diploma in Data Science @ IIT Madras   
 - 💡 Passionate about **building scalable apps & data-driven solutions**  
 - 📊 Experienced in **ML pipelines, analytics dashboards & full-stack systems**  
 - 👩‍💻 Currently **open to internship opportunities**
@@ -84,7 +84,7 @@
 
 ---
 
-### 🏥 ARAM - IPV Detection System
+### 🏥 ARAM - IPV Detection System (MERN)
 - WHO-based **risk assessment system**
 - Built **analytics dashboard & automated reports**
 - Enabled **real-time referral system**
@@ -113,8 +113,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanjanav2102&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanav2102&theme=tokyonight" />
 </p>
 
 ---
@@ -130,21 +130,19 @@
 
 - 🎤 Toastmasters Level 1 — Mastery in Presentation  
 - 📊 Built large-scale ML & analytics systems  
-- 👩‍💻 Led development teams in Agile environments  
+- 👩‍💻 Led development teams in Agile environments
+- 🎤 Learning Facilitator at DSA workshop
+- 🇮🇳 A Certificate in National Cadel Corps (NCC)
+
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/sanjanav2102"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/sanjanav2102"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-
----
-
-## ✨ Fun Fact
-> I love combining **Data + Development + Real-world Impact** 🚀
 
 ---
 
