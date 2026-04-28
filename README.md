@@ -121,8 +121,9 @@
 
 ## 🧩 LeetCode & Coding
 
-- 🚀 Strong foundation in **DSA (Graphs, Algorithms, Optimization)**
-- 💻 Regular problem solving & competitive coding  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sanjanav_2102?theme=dark&font=Nunito&ext=heatmap" />
+</p> 
 
 ---
 
