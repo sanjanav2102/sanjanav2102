@@ -110,6 +110,11 @@
 
 ---
 
+### 🏥 Amrita Students Club Website (HTML, CSS, JS)
+- HTML, CSS, JS
+- User Interface design
+- First Webdev Project
+  
 ## 📈 GitHub Stats
 
 <p align="center">
