@@ -54,7 +54,7 @@
 
 ---
 
-### 📱 Mobile App Developer Intern — Ainsurtech (Apr 2025 – Jul 2025)
+### 📱 Mobile App Developer Intern — Ainsurtech (Mar 2025 – Jul 2025)
 - Built Flutter apps like **Note App & Attendance System**  
 - Led a **5-member Agile team**  
 - Used **Firebase, REST APIs, Git/GitHub**
