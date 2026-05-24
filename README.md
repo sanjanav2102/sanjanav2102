@@ -44,7 +44,8 @@
 
 ### 📊 AI
 <p>
-<img src="https://placeholder.com" alt="Colored Box">
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 <img src="https://skillicons.dev/icons?i=LangGraph" />
 
 </p>
