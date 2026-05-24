@@ -21,7 +21,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,sql,haskell" />
+<img src="https://skillicons.dev/icons?i=python,java,c,haskell" />
 </p>
 
 ### 🌐 Full Stack Development
@@ -43,7 +43,6 @@
 - NLP | TF-IDF | LightGBM  
 
 ### 📊 AI
-<p>
 - LangChain | LangGraph
 - GenAI | AgenticAI | RAG
   
