@@ -44,7 +44,7 @@
 
 ### 📊 AI
 <p>
-<img src="https://skillicons.dev/icons?i=LangChain" />
+$${\color{red}This \space text \space is \space red}$$
 <img src="https://skillicons.dev/icons?i=LangGraph" />
 
 </p>
