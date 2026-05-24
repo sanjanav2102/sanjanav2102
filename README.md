@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Data Science Enthusiast | Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Flutter+App+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Flutter+App+Developer;Data+Science+Enthusiast;Machine+Learning+Explorer;AI+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
@@ -41,6 +41,16 @@
 
 - Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn  
 - NLP | TF-IDF | LightGBM  
+
+### 📊 AI
+<p>
+<img src="https://skillicons.dev/icons?i=LangChain" />
+<img src="https://skillicons.dev/icons?i=LangGraph" />
+
+</p>
+
+- GenAI | AgenticAI | RAG
+  
 
 ---
 
