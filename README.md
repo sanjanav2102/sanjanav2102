@@ -44,12 +44,7 @@
 
 ### 📊 AI
 <p>
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-<img src="https://skillicons.dev/icons?i=LangGraph" />
-
-</p>
-
+- LangChain | LangGraph
 - GenAI | AgenticAI | RAG
   
 
