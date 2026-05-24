@@ -44,7 +44,7 @@
 
 ### 📊 AI
 <p>
-$${\color{red}This \space text \space is \space red}$$
+<img src="https://placeholder.com" alt="Colored Box">
 <img src="https://skillicons.dev/icons?i=LangGraph" />
 
 </p>
